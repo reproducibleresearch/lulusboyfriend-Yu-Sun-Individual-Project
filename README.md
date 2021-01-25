@@ -12,7 +12,7 @@ The purpose of this project is to evaluate the reproducibility of the visulaizat
 There are two data sets for this project: [us_counties.csv](https://github.com/nytimes/covid-19-data) and [all-states-history.csv](https://covidtracking.com/data); there are also provided in this repository, which were accessed on January 25th, 2021 and this project was designed to reproduce the results on January 17th, 2021.
 
 ##### **Code and Results**
-The code and detailed guideline of the process of reproduction were provided in this repository as a Rmarkdown file named project.rmd; furthermore, the results were generated as project.html and project.pdf.
+The code and detailed guideline of the process for reproduction were provided in this repository as a Rmarkdown file named Individual Project-Yu.Rmd; furthermore, the results were generated as Individual-Project-Yu.html and Individual-Project-Yu.pdf.
 
 ##### **Software and Version**
 To reproduce this project, users need to download the original Rmarkdown file and the two data sets from this repositroy. Additionally, the users need to install [R (Version 4.0.2 or above)](https://www.r-project.org/) and [R Studio](https://rstudio.com/products/rstudio/download/) to run the Rmarkdown file and reproduce the results from this project. On the other head, some specific packages (tidyverse, lubridate, zoo, knitr) were required for this project and they should be install before running the code. [How to install packages on R](https://www.datacamp.com/community/tutorials/r-packages-guide)
